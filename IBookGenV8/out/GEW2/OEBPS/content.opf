@@ -50,7 +50,15 @@
 	<!--<item id="chap01" href="Text/chapter01.xhtml" media-type="application/xhtml+xml"/>-->
 
 		
-	<item id="10.title" href="Text/10.title.xhtml" media-type="application/xhtml+xml"/>
+	<item id="010.title" href="Text/010.title.xhtml" media-type="application/xhtml+xml"/>
+	<item id="020.publication" href="Text/020.publication.xhtml" media-type="application/xhtml+xml"/>
+	<item id="030.prephase" href="Text/030.prephase.xhtml" media-type="application/xhtml+xml"/>
+	<item id="040.index" href="Text/040.index.xhtml" media-type="application/xhtml+xml"/>
+	<item id="050.title-p1-1" href="Text/050.title-p1-1.xhtml" media-type="application/xhtml+xml"/>
+	<item id="060.Chapter-p1-01" href="Text/060.Chapter-p1-01.xhtml" media-type="application/xhtml+xml"/>
+	<item id="070.Chapter-p1-02" href="Text/070.Chapter-p1-02.xhtml" media-type="application/xhtml+xml"/>
+	<item id="080.Chapter-p1-03" href="Text/080.Chapter-p1-03.xhtml" media-type="application/xhtml+xml"/>
+	<item id="090.Chapter-p1-04" href="Text/090.Chapter-p1-04.xhtml" media-type="application/xhtml+xml"/>
 	<item id="100.Chapter-p1-05" href="Text/100.Chapter-p1-05.xhtml" media-type="application/xhtml+xml"/>
 	<item id="110.Chapter-p1-06" href="Text/110.Chapter-p1-06.xhtml" media-type="application/xhtml+xml"/>
 	<item id="120.Chapter-p1-07" href="Text/120.Chapter-p1-07.xhtml" media-type="application/xhtml+xml"/>
@@ -61,7 +69,6 @@
 	<item id="170.Chapter-p1-12" href="Text/170.Chapter-p1-12.xhtml" media-type="application/xhtml+xml"/>
 	<item id="180.Chapter-p1-13" href="Text/180.Chapter-p1-13.xhtml" media-type="application/xhtml+xml"/>
 	<item id="190.Chapter-p1-14" href="Text/190.Chapter-p1-14.xhtml" media-type="application/xhtml+xml"/>
-	<item id="20.publication" href="Text/20.publication.xhtml" media-type="application/xhtml+xml"/>
 	<item id="200.Chapter-p1-15" href="Text/200.Chapter-p1-15.xhtml" media-type="application/xhtml+xml"/>
 	<item id="210.Chapter-p1-16" href="Text/210.Chapter-p1-16.xhtml" media-type="application/xhtml+xml"/>
 	<item id="220.Chapter-p1-17" href="Text/220.Chapter-p1-17.xhtml" media-type="application/xhtml+xml"/>
@@ -72,7 +79,6 @@
 	<item id="270.Chapter-p1-22" href="Text/270.Chapter-p1-22.xhtml" media-type="application/xhtml+xml"/>
 	<item id="280.Chapter-p1-23" href="Text/280.Chapter-p1-23.xhtml" media-type="application/xhtml+xml"/>
 	<item id="290.Chapter-p1-24" href="Text/290.Chapter-p1-24.xhtml" media-type="application/xhtml+xml"/>
-	<item id="30.prephase" href="Text/30.prephase.xhtml" media-type="application/xhtml+xml"/>
 	<item id="300.Chapter-p1-25" href="Text/300.Chapter-p1-25.xhtml" media-type="application/xhtml+xml"/>
 	<item id="310.sub-title-p1-1" href="Text/310.sub-title-p1-1.xhtml" media-type="application/xhtml+xml"/>
 	<item id="320.Chapter-p1-51" href="Text/320.Chapter-p1-51.xhtml" media-type="application/xhtml+xml"/>
@@ -83,7 +89,6 @@
 	<item id="370.Chapter-p1-58~9" href="Text/370.Chapter-p1-58~9.xhtml" media-type="application/xhtml+xml"/>
 	<item id="380.Chapter-p1-510" href="Text/380.Chapter-p1-510.xhtml" media-type="application/xhtml+xml"/>
 	<item id="390.Chapter-p1-511" href="Text/390.Chapter-p1-511.xhtml" media-type="application/xhtml+xml"/>
-	<item id="40.index" href="Text/40.index.xhtml" media-type="application/xhtml+xml"/>
 	<item id="400.Chapter-p1-512" href="Text/400.Chapter-p1-512.xhtml" media-type="application/xhtml+xml"/>
 	<item id="410.Chapter-p1-513" href="Text/410.Chapter-p1-513.xhtml" media-type="application/xhtml+xml"/>
 	<item id="420.Chapter-p1-514" href="Text/420.Chapter-p1-514.xhtml" media-type="application/xhtml+xml"/>
@@ -94,54 +99,11 @@
 	<item id="470.Chapter-p1-519" href="Text/470.Chapter-p1-519.xhtml" media-type="application/xhtml+xml"/>
 	<item id="480.Chapter-p1-520" href="Text/480.Chapter-p1-520.xhtml" media-type="application/xhtml+xml"/>
 	<item id="490.Chapter-p1-521" href="Text/490.Chapter-p1-521.xhtml" media-type="application/xhtml+xml"/>
-	<item id="50.title-p1-1" href="Text/50.title-p1-1.xhtml" media-type="application/xhtml+xml"/>
 	<item id="500.Chapter-p1-522" href="Text/500.Chapter-p1-522.xhtml" media-type="application/xhtml+xml"/>
 	<item id="510.Chapter-p1-523" href="Text/510.Chapter-p1-523.xhtml" media-type="application/xhtml+xml"/>
 	<item id="520.Chapter-p1-524" href="Text/520.Chapter-p1-524.xhtml" media-type="application/xhtml+xml"/>
 	<item id="530.Chapter-p1-525" href="Text/530.Chapter-p1-525.xhtml" media-type="application/xhtml+xml"/>
 	<item id="540.Chapter-p1-526" href="Text/540.Chapter-p1-526.xhtml" media-type="application/xhtml+xml"/>
-	<item id="550.title-p2-1" href="Text/550.title-p2-1.xhtml" media-type="application/xhtml+xml"/>
-	<item id="560.Chapter-p2-01" href="Text/560.Chapter-p2-01.xhtml" media-type="application/xhtml+xml"/>
-	<item id="570.Chapter-p2-02" href="Text/570.Chapter-p2-02.xhtml" media-type="application/xhtml+xml"/>
-	<item id="580.Chapter-p2-03" href="Text/580.Chapter-p2-03.xhtml" media-type="application/xhtml+xml"/>
-	<item id="590.Chapter-p2-04" href="Text/590.Chapter-p2-04.xhtml" media-type="application/xhtml+xml"/>
-	<item id="60.Chapter-p1-01" href="Text/60.Chapter-p1-01.xhtml" media-type="application/xhtml+xml"/>
-	<item id="600.Chapter-p2-05" href="Text/600.Chapter-p2-05.xhtml" media-type="application/xhtml+xml"/>
-	<item id="610.Chapter-p2-06" href="Text/610.Chapter-p2-06.xhtml" media-type="application/xhtml+xml"/>
-	<item id="620.Chapter-p2-07" href="Text/620.Chapter-p2-07.xhtml" media-type="application/xhtml+xml"/>
-	<item id="630.Chapter-p2-08" href="Text/630.Chapter-p2-08.xhtml" media-type="application/xhtml+xml"/>
-	<item id="640.Chapter-p2-09" href="Text/640.Chapter-p2-09.xhtml" media-type="application/xhtml+xml"/>
-	<item id="650.Chapter-p2-10" href="Text/650.Chapter-p2-10.xhtml" media-type="application/xhtml+xml"/>
-	<item id="660.Chapter-p2-11" href="Text/660.Chapter-p2-11.xhtml" media-type="application/xhtml+xml"/>
-	<item id="670.Chapter-p2-12" href="Text/670.Chapter-p2-12.xhtml" media-type="application/xhtml+xml"/>
-	<item id="680.Chapter-p2-13" href="Text/680.Chapter-p2-13.xhtml" media-type="application/xhtml+xml"/>
-	<item id="690.Chapter-p2-14" href="Text/690.Chapter-p2-14.xhtml" media-type="application/xhtml+xml"/>
-	<item id="70.Chapter-p1-02" href="Text/70.Chapter-p1-02.xhtml" media-type="application/xhtml+xml"/>
-	<item id="700.Chapter-p2-15" href="Text/700.Chapter-p2-15.xhtml" media-type="application/xhtml+xml"/>
-	<item id="710.Chapter-p2-16" href="Text/710.Chapter-p2-16.xhtml" media-type="application/xhtml+xml"/>
-	<item id="720.Chapter-p2-17" href="Text/720.Chapter-p2-17.xhtml" media-type="application/xhtml+xml"/>
-	<item id="730.Chapter-p2-18" href="Text/730.Chapter-p2-18.xhtml" media-type="application/xhtml+xml"/>
-	<item id="740.Chapter-p2-19" href="Text/740.Chapter-p2-19.xhtml" media-type="application/xhtml+xml"/>
-	<item id="750.Chapter-p2-20" href="Text/750.Chapter-p2-20.xhtml" media-type="application/xhtml+xml"/>
-	<item id="760.sub-title-p2-1" href="Text/760.sub-title-p2-1.xhtml" media-type="application/xhtml+xml"/>
-	<item id="770.Chapter-p2-51" href="Text/770.Chapter-p2-51.xhtml" media-type="application/xhtml+xml"/>
-	<item id="780.Chapter-p2-52" href="Text/780.Chapter-p2-52.xhtml" media-type="application/xhtml+xml"/>
-	<item id="790.Chapter-p2-53" href="Text/790.Chapter-p2-53.xhtml" media-type="application/xhtml+xml"/>
-	<item id="80.Chapter-p1-03" href="Text/80.Chapter-p1-03.xhtml" media-type="application/xhtml+xml"/>
-	<item id="800.Chapter-p2-54" href="Text/800.Chapter-p2-54.xhtml" media-type="application/xhtml+xml"/>
-	<item id="810.Chapter-p2-55" href="Text/810.Chapter-p2-55.xhtml" media-type="application/xhtml+xml"/>
-	<item id="820.Chapter-p2-56" href="Text/820.Chapter-p2-56.xhtml" media-type="application/xhtml+xml"/>
-	<item id="830.Chapter-p2-57" href="Text/830.Chapter-p2-57.xhtml" media-type="application/xhtml+xml"/>
-	<item id="840.Chapter-p2-58" href="Text/840.Chapter-p2-58.xhtml" media-type="application/xhtml+xml"/>
-	<item id="850.Chapter-p2-59" href="Text/850.Chapter-p2-59.xhtml" media-type="application/xhtml+xml"/>
-	<item id="860.Chapter-p2-510" href="Text/860.Chapter-p2-510.xhtml" media-type="application/xhtml+xml"/>
-	<item id="870.Chapter-p2-511" href="Text/870.Chapter-p2-511.xhtml" media-type="application/xhtml+xml"/>
-	<item id="880.Chapter-p2-512" href="Text/880.Chapter-p2-512.xhtml" media-type="application/xhtml+xml"/>
-	<item id="890.Chapter-p2-513" href="Text/890.Chapter-p2-513.xhtml" media-type="application/xhtml+xml"/>
-	<item id="90.Chapter-p1-04" href="Text/90.Chapter-p1-04.xhtml" media-type="application/xhtml+xml"/>
-	<item id="900.Chapter-p2-514" href="Text/900.Chapter-p2-514.xhtml" media-type="application/xhtml+xml"/>
-	<item id="910.Chapter-p2-515" href="Text/910.Chapter-p2-515.xhtml" media-type="application/xhtml+xml"/>
-	<item id="920.Chapter-p2-516" href="Text/920.Chapter-p2-516.xhtml" media-type="application/xhtml+xml"/>
 
 </manifest>
 
@@ -150,7 +112,15 @@
 		
 	<!--<itemref idref="chap01" linear="yes"/>-->
 		
-	<itemref idref="10.title" linear="yes"/>
+	<itemref idref="010.title" linear="yes"/>
+	<itemref idref="020.publication" linear="yes"/>
+	<itemref idref="030.prephase" linear="yes"/>
+	<itemref idref="040.index" linear="yes"/>
+	<itemref idref="050.title-p1-1" linear="yes"/>
+	<itemref idref="060.Chapter-p1-01" linear="yes"/>
+	<itemref idref="070.Chapter-p1-02" linear="yes"/>
+	<itemref idref="080.Chapter-p1-03" linear="yes"/>
+	<itemref idref="090.Chapter-p1-04" linear="yes"/>
 	<itemref idref="100.Chapter-p1-05" linear="yes"/>
 	<itemref idref="110.Chapter-p1-06" linear="yes"/>
 	<itemref idref="120.Chapter-p1-07" linear="yes"/>
@@ -161,7 +131,6 @@
 	<itemref idref="170.Chapter-p1-12" linear="yes"/>
 	<itemref idref="180.Chapter-p1-13" linear="yes"/>
 	<itemref idref="190.Chapter-p1-14" linear="yes"/>
-	<itemref idref="20.publication" linear="yes"/>
 	<itemref idref="200.Chapter-p1-15" linear="yes"/>
 	<itemref idref="210.Chapter-p1-16" linear="yes"/>
 	<itemref idref="220.Chapter-p1-17" linear="yes"/>
@@ -172,7 +141,6 @@
 	<itemref idref="270.Chapter-p1-22" linear="yes"/>
 	<itemref idref="280.Chapter-p1-23" linear="yes"/>
 	<itemref idref="290.Chapter-p1-24" linear="yes"/>
-	<itemref idref="30.prephase" linear="yes"/>
 	<itemref idref="300.Chapter-p1-25" linear="yes"/>
 	<itemref idref="310.sub-title-p1-1" linear="yes"/>
 	<itemref idref="320.Chapter-p1-51" linear="yes"/>
@@ -183,7 +151,6 @@
 	<itemref idref="370.Chapter-p1-58~9" linear="yes"/>
 	<itemref idref="380.Chapter-p1-510" linear="yes"/>
 	<itemref idref="390.Chapter-p1-511" linear="yes"/>
-	<itemref idref="40.index" linear="yes"/>
 	<itemref idref="400.Chapter-p1-512" linear="yes"/>
 	<itemref idref="410.Chapter-p1-513" linear="yes"/>
 	<itemref idref="420.Chapter-p1-514" linear="yes"/>
@@ -194,54 +161,11 @@
 	<itemref idref="470.Chapter-p1-519" linear="yes"/>
 	<itemref idref="480.Chapter-p1-520" linear="yes"/>
 	<itemref idref="490.Chapter-p1-521" linear="yes"/>
-	<itemref idref="50.title-p1-1" linear="yes"/>
 	<itemref idref="500.Chapter-p1-522" linear="yes"/>
 	<itemref idref="510.Chapter-p1-523" linear="yes"/>
 	<itemref idref="520.Chapter-p1-524" linear="yes"/>
 	<itemref idref="530.Chapter-p1-525" linear="yes"/>
 	<itemref idref="540.Chapter-p1-526" linear="yes"/>
-	<itemref idref="550.title-p2-1" linear="yes"/>
-	<itemref idref="560.Chapter-p2-01" linear="yes"/>
-	<itemref idref="570.Chapter-p2-02" linear="yes"/>
-	<itemref idref="580.Chapter-p2-03" linear="yes"/>
-	<itemref idref="590.Chapter-p2-04" linear="yes"/>
-	<itemref idref="60.Chapter-p1-01" linear="yes"/>
-	<itemref idref="600.Chapter-p2-05" linear="yes"/>
-	<itemref idref="610.Chapter-p2-06" linear="yes"/>
-	<itemref idref="620.Chapter-p2-07" linear="yes"/>
-	<itemref idref="630.Chapter-p2-08" linear="yes"/>
-	<itemref idref="640.Chapter-p2-09" linear="yes"/>
-	<itemref idref="650.Chapter-p2-10" linear="yes"/>
-	<itemref idref="660.Chapter-p2-11" linear="yes"/>
-	<itemref idref="670.Chapter-p2-12" linear="yes"/>
-	<itemref idref="680.Chapter-p2-13" linear="yes"/>
-	<itemref idref="690.Chapter-p2-14" linear="yes"/>
-	<itemref idref="70.Chapter-p1-02" linear="yes"/>
-	<itemref idref="700.Chapter-p2-15" linear="yes"/>
-	<itemref idref="710.Chapter-p2-16" linear="yes"/>
-	<itemref idref="720.Chapter-p2-17" linear="yes"/>
-	<itemref idref="730.Chapter-p2-18" linear="yes"/>
-	<itemref idref="740.Chapter-p2-19" linear="yes"/>
-	<itemref idref="750.Chapter-p2-20" linear="yes"/>
-	<itemref idref="760.sub-title-p2-1" linear="yes"/>
-	<itemref idref="770.Chapter-p2-51" linear="yes"/>
-	<itemref idref="780.Chapter-p2-52" linear="yes"/>
-	<itemref idref="790.Chapter-p2-53" linear="yes"/>
-	<itemref idref="80.Chapter-p1-03" linear="yes"/>
-	<itemref idref="800.Chapter-p2-54" linear="yes"/>
-	<itemref idref="810.Chapter-p2-55" linear="yes"/>
-	<itemref idref="820.Chapter-p2-56" linear="yes"/>
-	<itemref idref="830.Chapter-p2-57" linear="yes"/>
-	<itemref idref="840.Chapter-p2-58" linear="yes"/>
-	<itemref idref="850.Chapter-p2-59" linear="yes"/>
-	<itemref idref="860.Chapter-p2-510" linear="yes"/>
-	<itemref idref="870.Chapter-p2-511" linear="yes"/>
-	<itemref idref="880.Chapter-p2-512" linear="yes"/>
-	<itemref idref="890.Chapter-p2-513" linear="yes"/>
-	<itemref idref="90.Chapter-p1-04" linear="yes"/>
-	<itemref idref="900.Chapter-p2-514" linear="yes"/>
-	<itemref idref="910.Chapter-p2-515" linear="yes"/>
-	<itemref idref="920.Chapter-p2-516" linear="yes"/>
 
 </spine>
 
