@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+     
+	<dc:identifier id="pubID">aqn</dc:identifier>
+	<meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
+
+	<dc:title id="title">Computer Applications</dc:title>
+		
+	<dc:creator id="aut">Bangladesh Technical Education Board</dc:creator>
+	<meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
+	<meta refines="#aut" property="file-as">Pettarin, Alberto</meta>
+		
+	<dc:contributor id="nrt">Sukarna Barua</dc:contributor>
+	<meta refines="#nrt" property="role" scheme="marc:relators">nrt</meta>
+	<meta refines="#nrt" property="file-as">Klett, Elizabeth</meta>
+		
+	<dc:contributor id="bkp">ReadBeyond</dc:contributor>
+	<meta refines="#bkp" property="role" scheme="marc:relators">bkp</meta>
+	<meta refines="#bkp" property="file-as">ReadBeyond</meta>
+
+	<dc:language>it</dc:language>
+	<dc:date>2014-08-02</dc:date>
+	<meta property="dcterms:modified">2014-08-02T00:00:01Z</meta>
+	<meta name="cover" content="cover.png" />
+
+	<dc:publisher>ReadBeyond, Padova, Italy</dc:publisher>
+	<dc:rights>CC BY-NC-SA 4.0</dc:rights>
+	<dc:subject>William Shakespeare</dc:subject>
+	<dc:subject>Sonnets</dc:subject>
+	<dc:subject>Read aloud</dc:subject>
+	<dc:subject>EPUB 3 Media Overlays</dc:subject>
+	<dc:type>Book</dc:type>
+
+	<!--MEDIA OVERLAYS METADATA-->
+</metadata>
+	
+<manifest>
+	
+	<item id="css-main" href="Styles/style.css" media-type="text/css" />  
+	<item id="font.solaimanlipi.normal" href="Fonts/SolaimanLipiNormal.otf" media-type="application/vnd.ms-opentype"/>
+	<item id="font.solaimanlipi.bold" href="Fonts/SolaimanLipiBold.otf" media-type="application/vnd.ms-opentype"/>		
+	<item id="toc" href="Text/toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+	<item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+	<item id="cover.png" href="Images/cover.png" media-type="image/png" properties="cover-image" />
+	<item id="c001" href="Styles/style.css" media-type="text/css"/>
+		
+	<!--<item id="chap01" href="Text/chapter01.xhtml" media-type="application/xhtml+xml"/>-->
+
+		
+</manifest>
+
+<spine page-progression-direction="ltr">
+	<itemref idref="cover" linear="yes"/>
+		
+	<!--<itemref idref="chap01" linear="yes"/>-->
+		
+</spine>
+
+</package>

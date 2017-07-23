@@ -1,0 +1,199 @@
+	
+@font-face {
+    font-family: 'SolaimanLipi';
+	font-weight: normal;
+	font-style: normal;
+    src:url('../Fonts/SolaimanLipiNormal.otf') format('opentype');
+	//unicode-range: U+0980-09FF;
+}
+	
+@font-face {
+    font-family: 'SolaimanLipi';
+	font-weight: bold;
+	font-style: normal;
+    src:url('../Fonts/SolaimanLipiBold.otf') format('opentype');
+	//unicode-range: U+0980-09FF;
+}
+
+body 	{
+	font-family: 'SolaimanLipi', vrinda;
+	font-size: 16px;
+}
+
+#coverdiv	{
+	max-height: 50%;
+	max-width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.aligncenter	{
+	text-align: center;
+}
+
+.fontbold		{
+	font-weight: bold;
+}
+
+.underline	{
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+.normal	{
+	font-weight: normal;
+	font-size: 1.0em;
+}
+
+.italic	{
+	font-weight: normal;
+	font-style: italic;
+}
+
+.select	{
+	background-color: black;
+	color: white;
+}
+
+.sh	{
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.th	{
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.ph	{
+	font-weight: bold;
+	font-size: 1.0em;
+}
+
+.eh	{
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.pc	{
+	/*text-align: justify;*/
+}
+
+.code	{
+	font-family: Arial;
+	line-height: 120%;
+	/*font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;*/
+}
+
+.sectionobjectives	{
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 10px;
+	padding: 2px 8px 0px 8px;
+}
+
+.sectionobjectives 	ul	{
+	padding-left: 24px;
+}
+.sectionobjectives 	li	{
+	padding-left: 8px;
+	padding-bottom: 8px;
+}
+
+.imagediv	{
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fullimagediv	{
+}
+
+.inlineimage	{
+	width: 20px;
+}
+.blockimage	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: 100%;
+	max-width: 100%;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid black;
+}
+
+.imagediv, .fullimagediv	{
+	padding: 5px 0px 5px 0px;
+}
+
+.ih	{
+	text-align: center;
+}
+
+table	{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, tr, th, td{
+	/*text-align: center;*/
+	border: 1px solid black;
+	padding: 2px 10px 2px 10px;
+	border-collapse: collapse;
+	page-break-inside: avoid;
+}
+
+ul	{
+	padding-left: 25px;
+}
+
+ul li	{
+	padding-left: 10px;
+}
+
+ol	{
+	padding-left: 25px;
+}
+
+ol li	{
+	padding-left: 10px;
+}
+
+.nostyleul	{
+	padding-left: 0px;
+	list-style-type: none;
+}
+
+.bengaliol	{
+	list-style-type: bengali;
+}
+
+.epmedia	{
+ color: #0645AD;
+ cursor: pointer;
+}
+
+/*
+For page breaks, use the following
+<div style=”page-break-before:always;”></div>
+*/
+
+
+/*
+    EPUB 3 Media Overlays active style: pale yellow background
+*/
+.-epub-media-overlay-active {
+    background-color: #FFFF99;
+}
+
+/*
+    Kobo ignores media:active-class and relies on a naming convention.
+    Using pale green background to make this evident.
+*/
+.kobo-smil-highlight {
+    background-color: #99FF99;
+}
