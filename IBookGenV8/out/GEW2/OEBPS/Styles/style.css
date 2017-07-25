@@ -43,6 +43,16 @@ body 	{
 .normal	{
 	font-weight: normal;
 	font-size: 1.0em;
+	text-align: center;
+}
+
+.normalfont	{
+	font-weight: normal;
+	font-size: 1.0em;
+}
+
+.rightalign{
+	text-align: right;
 }
 
 .italic	{
@@ -72,7 +82,8 @@ body 	{
 
 .eh	{
 	font-weight: bold;
-	font-size: 1.1em;
+	font-size: 1.5em;
+	text-align: center;
 }
 
 .pc	{
