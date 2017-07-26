@@ -50,12 +50,7 @@
 	<!--<item id="chap01" href="Text/chapter01.xhtml" media-type="application/xhtml+xml"/>-->
 
 		
-	<item id="010.title" href="Text/010.title.xhtml" media-type="application/xhtml+xml"/>
-	<item id="020.publication" href="Text/020.publication.xhtml" media-type="application/xhtml+xml"/>
-	<item id="030.prephase" href="Text/030.prephase.xhtml" media-type="application/xhtml+xml"/>
-	<item id="040.index" href="Text/040.index.xhtml" media-type="application/xhtml+xml"/>
-	<item id="050.title-p1-1" href="Text/050.title-p1-1.xhtml" media-type="application/xhtml+xml"/>
-	<item id="060.Chapter-p1-01" href="Text/060.Chapter-p1-01.xhtml" media-type="application/xhtml+xml"/>
+	<item id="080.Chapter-p1-03" href="Text/080.Chapter-p1-03.xhtml" media-type="application/xhtml+xml"/>
 
 </manifest>
 
@@ -64,12 +59,7 @@
 		
 	<!--<itemref idref="chap01" linear="yes"/>-->
 		
-	<itemref idref="010.title" linear="yes"/>
-	<itemref idref="020.publication" linear="yes"/>
-	<itemref idref="030.prephase" linear="yes"/>
-	<itemref idref="040.index" linear="yes"/>
-	<itemref idref="050.title-p1-1" linear="yes"/>
-	<itemref idref="060.Chapter-p1-01" linear="yes"/>
+	<itemref idref="080.Chapter-p1-03" linear="yes"/>
 
 </spine>
 

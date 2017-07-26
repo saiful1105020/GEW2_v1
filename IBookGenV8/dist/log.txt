@@ -1,66 +1,53 @@
 E:\Github\GEW2_Git\IBookGenV8\out/GEW2
-Loading file from 010.title.docx
+Loading file from 080.Chapter-p1-03.docx
 Conversion current file started
 Wrong number of inputs in unicode correction file at line: 48
 Wrong number of inputs in unicode correction file at line: 49
 Wrong number of inputs in unicode correction file at line: 50
-Conversion current file ended.
-
-
-
-Loading file from 020.publication.docx
-Conversion current file started
-Wrong number of inputs in unicode correction file at line: 48
-Wrong number of inputs in unicode correction file at line: 49
-Wrong number of inputs in unicode correction file at line: 50
-Conversion current file ended.
-
-
-
-Loading file from 030.prephase.docx
-Conversion current file started
-Wrong number of inputs in unicode correction file at line: 48
-Wrong number of inputs in unicode correction file at line: 49
-Wrong number of inputs in unicode correction file at line: 50
-Conversion current file ended.
-
-
-
-Loading file from 040.index.docx
-Conversion current file started
-Wrong number of inputs in unicode correction file at line: 48
-Wrong number of inputs in unicode correction file at line: 49
-Wrong number of inputs in unicode correction file at line: 50
-Conversion current file ended.
-
-
-
-Loading file from 050.title-p1-1.docx
-Conversion current file started
-Wrong number of inputs in unicode correction file at line: 48
-Wrong number of inputs in unicode correction file at line: 49
-Wrong number of inputs in unicode correction file at line: 50
-Conversion current file ended.
-
-
-
-Loading file from 060.Chapter-p1-01.docx
-Conversion current file started
-Wrong number of inputs in unicode correction file at line: 48
-Wrong number of inputs in unicode correction file at line: 49
-Wrong number of inputs in unicode correction file at line: 50
-JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/4f9ce51b-899e-4764-9db3-45eac4c88e07image7.jpeg output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/img060.Chapter-p1-01007.jpeg
-javax.imageio.IIOException: Unsupported Image Type
-	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(Unknown Source)
-	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(Unknown Source)
-	at javax.imageio.ImageIO.read(Unknown Source)
-	at javax.imageio.ImageIO.read(Unknown Source)
-	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:180)
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image15.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03009.jpeg
+java.lang.IllegalArgumentException: image == null!
+	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
+	at javax.imageio.ImageIO.getWriter(Unknown Source)
+	at javax.imageio.ImageIO.write(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:183)
 	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
 	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
 	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
 	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
-Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/4f9ce51b-899e-4764-9db3-45eac4c88e07image7.jpeg->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/img060.Chapter-p1-01007.jpeg
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image15.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03009.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image16.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03010.jpeg
+java.lang.IllegalArgumentException: image == null!
+	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
+	at javax.imageio.ImageIO.getWriter(Unknown Source)
+	at javax.imageio.ImageIO.write(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:183)
+	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image16.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03010.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image17.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03011.jpeg
+java.lang.IllegalArgumentException: image == null!
+	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
+	at javax.imageio.ImageIO.getWriter(Unknown Source)
+	at javax.imageio.ImageIO.write(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:183)
+	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image17.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03011.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image19.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03013.jpeg
+java.lang.IllegalArgumentException: image == null!
+	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
+	at javax.imageio.ImageIO.getWriter(Unknown Source)
+	at javax.imageio.ImageIO.write(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:183)
+	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image19.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03013.jpeg
 Conversion current file ended.
 
 
@@ -107,6 +94,86 @@ Caused by: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Conten
 	... 14 more
 Loading file from ~$0.Chapter-p1-01.docx
 Some error while converting file ~$0.Chapter-p1-01.docx
+org.docx4j.openpackaging.exceptions.Docx4JException: Couldn't load xml from stream 
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:539)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:387)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:270)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:250)
+	at org.docx4j.openpackaging.packages.WordprocessingMLPackage.load(WordprocessingMLPackage.java:168)
+	at org.docx4j.Docx4J.load(Docx4J.java:236)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:354)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Caused by: javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.]
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.createUnmarshalException(Unknown Source)
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.createUnmarshalException(Unknown Source)
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(Unknown Source)
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(Unknown Source)
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source)
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source)
+	at org.docx4j.convert.in.FlatOpcXmlImporter.<init>(FlatOpcXmlImporter.java:115)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:535)
+	... 8 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	... 14 more
+Loading file from ~$0.Chapter-p1-02.docx
+Some error while converting file ~$0.Chapter-p1-02.docx
+org.docx4j.openpackaging.exceptions.Docx4JException: Couldn't load xml from stream 
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:539)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:387)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:270)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:250)
+	at org.docx4j.openpackaging.packages.WordprocessingMLPackage.load(WordprocessingMLPackage.java:168)
+	at org.docx4j.Docx4J.load(Docx4J.java:236)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:354)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Caused by: javax.xml.bind.UnmarshalException
+ - with linked exception:
+[org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.]
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.createUnmarshalException(Unknown Source)
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.createUnmarshalException(Unknown Source)
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal0(Unknown Source)
+	at com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallerImpl.unmarshal(Unknown Source)
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source)
+	at javax.xml.bind.helpers.AbstractUnmarshallerImpl.unmarshal(Unknown Source)
+	at org.docx4j.convert.in.FlatOpcXmlImporter.<init>(FlatOpcXmlImporter.java:115)
+	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:535)
+	... 8 more
+Caused by: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Content is not allowed in prolog.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(Unknown Source)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	... 14 more
+Loading file from ~$0.Chapter-p1-03.docx
+Some error while converting file ~$0.Chapter-p1-03.docx
 org.docx4j.openpackaging.exceptions.Docx4JException: Couldn't load xml from stream 
 	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:539)
 	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:387)
