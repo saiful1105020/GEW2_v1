@@ -1,10 +1,85 @@
 E:\Github\GEW2_Git\IBookGenV8\out/GEW2
+Loading file from 010.title.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+Conversion current file ended.
+
+
+
+Loading file from 020.publication.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+Conversion current file ended.
+
+
+
+Loading file from 030.prephase.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+Conversion current file ended.
+
+
+
+Loading file from 040.index.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+Conversion current file ended.
+
+
+
+Loading file from 050.title-p1-1.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+Conversion current file ended.
+
+
+
+Loading file from 060.Chapter-p1-01.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/fc1fa7f3-cff3-4695-8bfa-7109fcd7dc9fimage7.jpeg output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/img060.Chapter-p1-01007.jpeg
+javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(Unknown Source)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:180)
+	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/fc1fa7f3-cff3-4695-8bfa-7109fcd7dc9fimage7.jpeg->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/060.Chapter-p1-01/img060.Chapter-p1-01007.jpeg
+Conversion current file ended.
+
+
+
+Loading file from 070.Chapter-p1-02.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+Conversion current file ended.
+
+
+
 Loading file from 080.Chapter-p1-03.docx
 Conversion current file started
 Wrong number of inputs in unicode correction file at line: 48
 Wrong number of inputs in unicode correction file at line: 49
 Wrong number of inputs in unicode correction file at line: 50
-JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image15.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03009.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image15.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03009.jpeg
 java.lang.IllegalArgumentException: image == null!
 	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
 	at javax.imageio.ImageIO.getWriter(Unknown Source)
@@ -14,8 +89,8 @@ java.lang.IllegalArgumentException: image == null!
 	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
 	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
 	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
-Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image15.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03009.jpeg
-JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image16.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03010.jpeg
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image15.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03009.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image16.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03010.jpeg
 java.lang.IllegalArgumentException: image == null!
 	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
 	at javax.imageio.ImageIO.getWriter(Unknown Source)
@@ -25,8 +100,8 @@ java.lang.IllegalArgumentException: image == null!
 	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
 	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
 	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
-Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image16.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03010.jpeg
-JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image17.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03011.jpeg
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image16.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03010.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image17.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03011.jpeg
 java.lang.IllegalArgumentException: image == null!
 	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
 	at javax.imageio.ImageIO.getWriter(Unknown Source)
@@ -36,8 +111,8 @@ java.lang.IllegalArgumentException: image == null!
 	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
 	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
 	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
-Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image17.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03011.jpeg
-JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image19.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03013.jpeg
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image17.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03011.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image19.emf output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03013.jpeg
 java.lang.IllegalArgumentException: image == null!
 	at javax.imageio.ImageTypeSpecifier.createFromRenderedImage(Unknown Source)
 	at javax.imageio.ImageIO.getWriter(Unknown Source)
@@ -47,7 +122,61 @@ java.lang.IllegalArgumentException: image == null!
 	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
 	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
 	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
-Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/b1e677d5-23f7-4f87-b25e-1e5246ed2ee2image19.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03013.jpeg
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/7d3b6264-3d6c-44ca-970d-662666e1e3b2image19.emf->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/080.Chapter-p1-03/img080.Chapter-p1-03013.jpeg
+Conversion current file ended.
+
+
+
+Loading file from 090.Chapter-p1-04.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/fef58b94-371a-4005-bace-c6363c78f565image1.jpeg output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/img090.Chapter-p1-04002.jpeg
+javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(Unknown Source)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:180)
+	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/fef58b94-371a-4005-bace-c6363c78f565image1.jpeg->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/img090.Chapter-p1-04002.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/fef58b94-371a-4005-bace-c6363c78f565image4.jpeg output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/img090.Chapter-p1-04005.jpeg
+javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(Unknown Source)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:180)
+	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/fef58b94-371a-4005-bace-c6363c78f565image4.jpeg->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/img090.Chapter-p1-04005.jpeg
+JavIO image conversion failed for input: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/fef58b94-371a-4005-bace-c6363c78f565image5.jpeg output: E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/img090.Chapter-p1-04006.jpeg
+javax.imageio.IIOException: Unsupported Image Type
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.readInternal(Unknown Source)
+	at com.sun.imageio.plugins.jpeg.JPEGImageReader.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at javax.imageio.ImageIO.read(Unknown Source)
+	at sukarna.ibookconverter.ImageCorrector.convertImageFormat(ImageCorrector.java:180)
+	at sukarna.ibookconverter.ImageCorrector.correctFigures(ImageCorrector.java:118)
+	at sukarna.ibookconverter.Converter.convert(Converter.java:424)
+	at sukarna.ibookconverter.Converter.convertAll(Converter.java:298)
+	at sukarna.ibookconverter.MainWindow$5.run(MainWindow.java:580)
+Trying ImageMagick for converting E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/fef58b94-371a-4005-bace-c6363c78f565image5.jpeg->E:\Github\GEW2_Git\IBookGenV8\out/GEW2/OEBPS/Images/090.Chapter-p1-04/img090.Chapter-p1-04006.jpeg
+Conversion current file ended.
+
+
+
+Loading file from 100.Chapter-p1-05.docx
+Conversion current file started
+Wrong number of inputs in unicode correction file at line: 48
+Wrong number of inputs in unicode correction file at line: 49
+Wrong number of inputs in unicode correction file at line: 50
 Conversion current file ended.
 
 
@@ -172,8 +301,8 @@ Caused by: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Conten
 	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
 	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
 	... 14 more
-Loading file from ~$0.Chapter-p1-03.docx
-Some error while converting file ~$0.Chapter-p1-03.docx
+Loading file from ~$0.Chapter-p1-04.docx
+Some error while converting file ~$0.Chapter-p1-04.docx
 org.docx4j.openpackaging.exceptions.Docx4JException: Couldn't load xml from stream 
 	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:539)
 	at org.docx4j.openpackaging.packages.OpcPackage.load(OpcPackage.java:387)

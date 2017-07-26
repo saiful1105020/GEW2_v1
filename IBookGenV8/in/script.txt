@@ -96,3 +96,26 @@
 080.Chapter-p1-03.xhtml			সেল্ফ্ লকিং হিঞ্জড পাইপ ভাইস	সেল্ফ্ লকিং হিঞ্জড পাইপ ভাইস		image103071.jpg				1
 080.Chapter-p1-03.xhtml			পাইপ কাটার;	পাইপ কাটার		image103072.jpg				1
 080.Chapter-p1-03.xhtml			জিমলেট;	জিমলেট		image103073.jpg				1
+090.Chapter-p1-04.xhtml			ল্যাম্প হোল্ডার.	ল্যাম্প হোল্ডার		image104001.jpg				1
+090.Chapter-p1-04.xhtml			ওয়ান ওয়ে সুইচ:	ওয়ান ওয়ে সুইচ		image104002.jpg				1
+090.Chapter-p1-04.xhtml			টু ওয়ে সুইচ:	টু ওয়ে সুইচ		image104003.jpg				1
+090.Chapter-p1-04.xhtml			ইন্টারমিডিয়েট সুইচ:	ইন্টারমিডিয়েট সুইচ		image104005.jpg				1
+090.Chapter-p1-04.xhtml			পুশ সুইচ:	পুশ সুইচ		image104006.jpg				1
+090.Chapter-p1-04.xhtml			পুশ পুল সুইচ:	পুশ পুল সুইচ		image104007.jpg				1
+090.Chapter-p1-04.xhtml			কী সুইচ:	কী সুইচ		image104008.jpg				1
+090.Chapter-p1-04.xhtml			রোটারী সুইচ:	রোটারী সুইচ		image104009.jpg				1
+090.Chapter-p1-04.xhtml			বেড সুইচ:	বেড সুইচ		image104010.jpg				1
+090.Chapter-p1-04.xhtml			পুশ বাটন সুইচ:	পুশ বাটন সুইচ 		image104011.jpg				1
+090.Chapter-p1-04.xhtml			টাইম সুইচ:	টাইম সুইচ		image104012.jpg				1
+090.Chapter-p1-04.xhtml			কনসিল্ড সুইচ:	কনসিল্ড সুইচ		image104013.jpg				1
+090.Chapter-p1-04.xhtml			টুইনব সুইচ:	টুইনব সুইচ		image104014.jpg				1
+090.Chapter-p1-04.xhtml			নাইফ সুইচ:	নাইফ সুইচ		image104015.jpg				1
+090.Chapter-p1-04.xhtml			মেইন সুইচ:	মেইন সুইচ		image104016.jpg				1
+090.Chapter-p1-04.xhtml			সিঙ্গেল পোল সুইচ:	সিঙ্গেল পোল সুইচ		image104017.jpg				1
+090.Chapter-p1-04.xhtml			ডাবল পোল সুইচ:	ডাবল পোল সুইচ		image104018.jpg				1
+090.Chapter-p1-04.xhtml			ট্রিপল পোল সুইচ:	ট্রিপল পোল সুইচ		image104019.jpg				1
+090.Chapter-p1-04.xhtml			সিঙ্গেল থ্রো সুইচ:	সিঙ্গেল থ্রো সুইচ		image104020.jpg				1
+090.Chapter-p1-04.xhtml			আয়রণ ক্ল্যাড সুইচ:	আয়রণ ক্ল্যাড সুইচ		image104021.jpg				1
+100.Chapter-p1-05.xhtml			পিভিসি তারের কয়েল	পিভিসি তারের কয়েল		image105001.jpg				1
+100.Chapter-p1-05.xhtml			PVC	PVC	PVC- Polyvinyle Chloride এক প্রকার রাসায়নিক যৌগ যা বিদ্যুৎ অপরিবাহী পদার্থ					1
+100.Chapter-p1-05.xhtml			 আর্মারড ক্যাবল বিশেষভাবে তৈরী উচ্চ কারেন্ট বহন ক্ষমতা 	আর্মারড	আর্মারড- Armored - বর্ম- PVC তারকে বাহ্যিক আঘাত থেকে রক্ষা করবার জন্য ধাতবারণ					1
