@@ -60,6 +60,14 @@
 	<item id="080.Chapter-p1-03" href="Text/080.Chapter-p1-03.xhtml" media-type="application/xhtml+xml"/>
 	<item id="090.Chapter-p1-04" href="Text/090.Chapter-p1-04.xhtml" media-type="application/xhtml+xml"/>
 	<item id="100.Chapter-p1-05" href="Text/100.Chapter-p1-05.xhtml" media-type="application/xhtml+xml"/>
+	<item id="110.Chapter-p1-06" href="Text/110.Chapter-p1-06.xhtml" media-type="application/xhtml+xml"/>
+	<item id="120.Chapter-p1-07" href="Text/120.Chapter-p1-07.xhtml" media-type="application/xhtml+xml"/>
+	<item id="130.Chapter-p1-08" href="Text/130.Chapter-p1-08.xhtml" media-type="application/xhtml+xml"/>
+	<item id="140.Chapter-p1-09" href="Text/140.Chapter-p1-09.xhtml" media-type="application/xhtml+xml"/>
+	<item id="150.Chapter-p1-10" href="Text/150.Chapter-p1-10.xhtml" media-type="application/xhtml+xml"/>
+	<item id="160.Chapter-p1-11" href="Text/160.Chapter-p1-11.xhtml" media-type="application/xhtml+xml"/>
+	<item id="170.Chapter-p1-12" href="Text/170.Chapter-p1-12.xhtml" media-type="application/xhtml+xml"/>
+	<item id="180.Chapter-p1-13" href="Text/180.Chapter-p1-13.xhtml" media-type="application/xhtml+xml"/>
 
 </manifest>
 
@@ -78,6 +86,14 @@
 	<itemref idref="080.Chapter-p1-03" linear="yes"/>
 	<itemref idref="090.Chapter-p1-04" linear="yes"/>
 	<itemref idref="100.Chapter-p1-05" linear="yes"/>
+	<itemref idref="110.Chapter-p1-06" linear="yes"/>
+	<itemref idref="120.Chapter-p1-07" linear="yes"/>
+	<itemref idref="130.Chapter-p1-08" linear="yes"/>
+	<itemref idref="140.Chapter-p1-09" linear="yes"/>
+	<itemref idref="150.Chapter-p1-10" linear="yes"/>
+	<itemref idref="160.Chapter-p1-11" linear="yes"/>
+	<itemref idref="170.Chapter-p1-12" linear="yes"/>
+	<itemref idref="180.Chapter-p1-13" linear="yes"/>
 
 </spine>
 
