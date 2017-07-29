@@ -110,6 +110,11 @@
 	<item id="580.Chapter-p2-03" href="Text/580.Chapter-p2-03.xhtml" media-type="application/xhtml+xml"/>
 	<item id="590.Chapter-p2-04" href="Text/590.Chapter-p2-04.xhtml" media-type="application/xhtml+xml"/>
 	<item id="600.Chapter-p2-05" href="Text/600.Chapter-p2-05.xhtml" media-type="application/xhtml+xml"/>
+	<item id="610.Chapter-p2-06" href="Text/610.Chapter-p2-06.xhtml" media-type="application/xhtml+xml"/>
+	<item id="620.Chapter-p2-07" href="Text/620.Chapter-p2-07.xhtml" media-type="application/xhtml+xml"/>
+	<item id="630.Chapter-p2-08" href="Text/630.Chapter-p2-08.xhtml" media-type="application/xhtml+xml"/>
+	<item id="640.Chapter-p2-09" href="Text/640.Chapter-p2-09.xhtml" media-type="application/xhtml+xml"/>
+	<item id="650.Chapter-p2-10" href="Text/650.Chapter-p2-10.xhtml" media-type="application/xhtml+xml"/>
 
 </manifest>
 
@@ -178,6 +183,11 @@
 	<itemref idref="580.Chapter-p2-03" linear="yes"/>
 	<itemref idref="590.Chapter-p2-04" linear="yes"/>
 	<itemref idref="600.Chapter-p2-05" linear="yes"/>
+	<itemref idref="610.Chapter-p2-06" linear="yes"/>
+	<itemref idref="620.Chapter-p2-07" linear="yes"/>
+	<itemref idref="630.Chapter-p2-08" linear="yes"/>
+	<itemref idref="640.Chapter-p2-09" linear="yes"/>
+	<itemref idref="650.Chapter-p2-10" linear="yes"/>
 
 </spine>
 
