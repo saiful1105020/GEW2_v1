@@ -3,11 +3,11 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pubID" xml:lang="en" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
 
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-     
+    
 	<dc:identifier id="pubID">aqn</dc:identifier>
 	<meta refines="#pubID" property="identifier-type" scheme="xsd:string">uuid</meta>
 
-	<dc:title id="title">Computer Applications</dc:title>
+	<dc:title id="title">General Electrical Works-2</dc:title>
 		
 	<dc:creator id="aut">Bangladesh Technical Education Board</dc:creator>
 	<meta refines="#aut" property="role" scheme="marc:relators">aut</meta>
